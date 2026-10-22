@@ -1,0 +1,52 @@
+--- Page 1 ---
+SIDDHARTH KHARE
+Senior Software Engineer | Full Stack & AI/ML Specialist
+Phone: +91 6263061200 | Email: siddharthkhare68@gmail.com
+LinkedIn: linkedin.com/in/siddharth-khare-3a7387200 | GitHub: github.com/Siddharthk18
+PROFESSIONAL SUMMARY
+Senior Software Engineer and AI/ML Specialist with 4.3 years of experience architecting scalable enterprise applications and
+Generative AI solutions. Adept at bridging robust .NET backend services with cutting-edge AI capabilities, specializing in Large
+Language Models (LLMs), RAG pipelines, and intelligent automation. Currently driving the development of AI-powered
+document processing and predictive data analytics systems at NAVEX, utilizing Python, backend frameworks, and modern
+machine learning to deliver high-impact business solutions.
+TECHNICAL SKILLS
+Data Science & AI: LLMs (OpenAI, Gemini), RAG Architecture, LangChain, NLP, Vector Embeddings, Semantic Search,
+Python, Pandas, NumPy, Scikit-Learn, OpenCV
+Backend: .NET Core, C#, ASP.NET Web API, Python (FastAPI, Flask), RESTful APIs, Microservices
+Frontend: React, JavaScript (ES6+), HTML5, CSS3, jQuery, Angular
+Databases & Tools: Vector Databases, Microsoft SQL Server, MySQL, Elasticsearch, Kibana, Docker, Kubernetes, Git,
+CI/CD
+WORK EXPERIENCE
+Senior Software Engineer | NAVEX India May 2024 – Present
+Tech Stack: Python, LLMs, LangChain, RAG, .NET Core, React, Elasticsearch, SQL Server
+(cid:127) Generative AI & Document Summarization Engine: Upgraded an NLP document processing module into an enterprise-grade
+GenAI solution. Designed RAG pipelines using vector embeddings for intelligent summarization and context-aware Q&A over
+large compliance datasets.
+(cid:127) Agentic Workflows & Backend Integration: Developed production-ready Python backend services and REST APIs to serve
+AI models, integrating LLM capabilities with existing .NET microservices and enterprise databases.
+(cid:127) AI-Driven Predictive Risk Analytics: Engineered an intelligent dashboard using Python (Pandas, Scikit-Learn) for predictive
+modeling, turning prototypes into automated risk-vector pipelines that reduced audit evaluation cycles.
+(cid:127) Performance & LLMOps: Implemented automated testing, observability, and Elasticsearch/Kibana logging pipelines to
+evaluate model responses and optimize system performance.
+Software Engineer | GlobalLogic (Hitachi) Jun 2022 – Apr 2024
+Tech Stack: Python, OpenCV, Pandas, NumPy, .NET, C#, MySQL, REST APIs
+(cid:127) Healthcare Computer Vision Application: Developed an end-to-end computer vision ML pipeline using Python, OpenCV,
+Pandas, and NumPy to analyze facial skin imagery and generate tailored product recommendations.
+(cid:127) Client GRC System: Designed high-throughput backend APIs and structured MySQL schemas for core platform modules,
+including feature-toggle controls.
+(cid:127) Led test automation initiatives and supported CI/CD deployment cycles across staging and production environments.
+Intern – Trainee Software Engineer | Cognizant Jan 2022 – May 2022
+Tech Stack:
+(cid:127) Developed full-stack web applications using C#, HTML5, CSS3, and JavaScript, focusing on structured data handling and
+responsive UI design.
+KEY TECHNICAL PROJECTS
+(cid:127) Duplicate Case Detection System: Developed an ML solution using NLP vectorization (TF-IDF) and cosine similarity to
+detect duplicate compliance reports in real time.
+(cid:127) Car Price Predictor: Built and deployed a regression model using Scikit-Learn to estimate pre-owned vehicle market values,
+with robust feature engineering.
+EDUCATION & CERTIFICATIONS
+Technocrats Institute of Technology, Bhopal — B.Tech in Computer Science and Engineering | CGPA: 8.82/10
+Siddharth Khare (cid:127) 1
+--- Page 2 ---
+Certifications: Data Science and Analytics | Microsoft AI Classroom Series
+Siddharth Khare (cid:127) 2
